@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="library-events-producer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library-events-producer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

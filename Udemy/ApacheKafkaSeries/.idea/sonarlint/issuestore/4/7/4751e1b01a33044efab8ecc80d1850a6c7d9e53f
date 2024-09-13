@@ -1,0 +1,15 @@
+
+	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Éº‘œ2J$1afa3f00-dc03-46dc-bf61-732e697a6756
+j
+java:S2189/""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Üº‘œ2J$568084b1-7375-474b-87f6-bf0de847edbc
+r	java:S106!"+Replace this use of System.out by a logger.(æŸ™üÿÿÿÿ8çº‘œ2J$6d43ebff-2f7e-42a6-8a26-b5b139bf0e49
+¡
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8éº‘œ2J$088f8180-faef-4c41-bd36-2ddbea9d108c
+‚
+java:S62132":Rename this variable to not match a restricted identifier.(å‡¹Œıÿÿÿÿ8ëº‘œ2J$095e1d29-78eb-4308-a239-198445807cf0
+r	java:S1063"+Replace this use of System.out by a logger.(İŞÇ£øÿÿÿÿ8ìº‘œ2J$f861bfd3-d63d-470b-a8d1-6b870efbfe5b
+m	java:S1064"+Replace this use of System.out by a logger.(Îà¶8ìº‘œ2J$3ed12d0f-1937-448f-9811-527eceaf0eb0
+m	java:S1068"+Replace this use of System.out by a logger.(ûàî¯8›‰‘œ2J$c33cb36d-83cc-41a1-b155-29b57327fbd6
+m	java:S106:"+Replace this use of System.out by a logger.(Ñ£†„8Øê“‘œ2J$eda30a7f-25f3-457e-aa98-4c6c122174b0
+r
+java:S1068"*Remove this unused "logger" private field.(¨ö÷ëşÿÿÿÿ8ïº‘œ2J$7ea55108-c908-4cbe-abbb-146c37007ae0

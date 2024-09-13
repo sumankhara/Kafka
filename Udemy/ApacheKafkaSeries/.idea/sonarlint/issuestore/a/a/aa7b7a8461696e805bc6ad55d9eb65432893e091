@@ -1,0 +1,11 @@
+
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(«ÂµÅıÿÿÿÿ8¢¹õœ2J$feaaa002-1989-4bdd-bbe4-c3787e0850ef
+m	java:S106#"+Replace this use of System.out by a logger.(Ñ†ğÅ8‰ùóœ2J$ec81ac14-cfb7-47d2-9ef4-237584b4a4d1
+ƒ	java:S125."<This block of commented-out lines of code should be removed.(÷ç·äùÿÿÿÿ8Œùóœ2J$1dd5728f-7b38-48da-a0bc-172a1b61f5ab
+—
+java:S1128"TRemove this unused import 'org.apache.kafka.clients.producer.RoundRobinPartitioner'.(—‚ˆ½8ª¹õœ2J$a0a8c7c9-e22f-40ad-bb79-787d8e87a58b
+~
+java:S1128
+";Remove this unused import 'java.util.IntSummaryStatistics'.(Õö¤ù8ùóœ2J$5f17e4cd-4f4b-4646-a779-ad275b67a64e
+r
+java:S1068"*Remove this unused "logger" private field.(ÀšĞûÿÿÿÿ8ùóœ2J$1a78e658-371e-4d12-bce1-5298c6eae91b

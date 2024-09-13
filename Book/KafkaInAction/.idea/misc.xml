@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/getting-to-know-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/designing-kafka-project/pom.xml" />
+        <option value="$PROJECT_DIR$/designing-kafka-project-ch3/pom.xml" />
+        <option value="$PROJECT_DIR$/producers-sourcing-data-ch4/pom.xml" />
+        <option value="$PROJECT_DIR$/consumers-unlocking-data-ch5/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/designing-kafka-project/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
